@@ -15,7 +15,7 @@ import pywhatkit
 import datetime
 import wikipedia
 import pyjokes
-from jesuswordsttest import fulllist
+from jesuswords import fulllist
 
 """
 1. Add already answered questions to a dataset
