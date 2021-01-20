@@ -2,6 +2,10 @@
 This is the main source code for Bob, a bot made in Python similar to Alexa.
 It can get information about people, places, things, or events from Wikipedia, play videos,
 get words from Jesus, and get the time. It can also tell jokes.
+
+Basic Alexa made with video "Don't Buy Alexa! Build your own. Create Virtual Assistant with Python". Link: https://www.youtube.com/watch?v=AWvsXxDtEkU
+Jesus' words found here: https://www.christsbondservants.org/Church_Alive/wys-Ch%20The%20Complete%20Sayings%20of%20Jesus.ArthurHinds.pdf
+(From book "The Complete Sayings of Jesus" by Arthur Hinds.)
 """
 
 
